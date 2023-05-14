@@ -3,7 +3,7 @@ import mediapipe as mp
 from cvzone.HandTrackingModule import HandDetector
 from time import sleep
 
-url = "https://10.55.81.38:8080/video"
+url = "https://10.55.81.38:8080/video" # change it from your ip of webcame, dont have app: https://play.google.com/store/apps/details?id=com.pas.webcam
 cap = cv2.VideoCapture(url)
 cap.set(3, 1280)
 cap.set(4, 720)
@@ -51,7 +51,7 @@ while True:
                 print(l)
 
                 if prev_button != button:  # Check if the previous button is not the same as the current button
-                    if l < 50:
+                    if l < 50: # increase or decrease as per your requirments 
                         cv2.rectangle(img, button.pos, (x + w, y + h), (0, 255, 0), cv2.FILLED)
                         cv2.putText(img, button.text, (x + 20, y + 65), cv2.FONT_HERSHEY_PLAIN, 4, (255, 255, 255), 4)
                         finalText += button.text
