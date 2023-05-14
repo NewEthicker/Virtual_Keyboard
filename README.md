@@ -1,7 +1,5 @@
 # Virtual Keyboard
-
-![Virtual Keyboard Demo](demo.gif)
-
+https://github.com/NewEthicker/Virtual_Keyboard/assets/88562515/b6e7d6cf-555c-49e5-b094-d7405eaa4a49
 Welcome to the Virtual Keyboard repository! This project aims to provide a virtual keyboard solution using hand tracking technology. With this virtual keyboard, you can type without the need for a physical keyboard, simply by making hand gestures in the air.
 
 ## Features
@@ -14,13 +12,13 @@ Welcome to the Virtual Keyboard repository! This project aims to provide a virtu
 ## Getting Started
 To get started with the Virtual Keyboard, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/virtual-keyboard.git`
+1. Clone the repository: `git clone https://github.com/NewEthicker/virtual-keyboard.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the virtual keyboard application: `python main.py`
 4. Follow the on-screen instructions for hand tracking and typing
 
 ## Contributing
-Contributions are welcome! If you have any ideas, bug fixes, or improvements, feel free to open an issue or submit a pull request. Please refer to the [contribution guidelines](CONTRIBUTING.md) for detailed instructions.
+Contributions are welcome! If you have any ideas, bug fixes, or improvements, feel free to open an issue or submit a pull request.
 
 ## Acknowledgements
 - [OpenCV](https://opencv.org) - Computer vision library
