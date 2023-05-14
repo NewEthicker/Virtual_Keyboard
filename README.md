@@ -1,5 +1,6 @@
 # Virtual Keyboard
 https://github.com/NewEthicker/Virtual_Keyboard/assets/88562515/b6e7d6cf-555c-49e5-b094-d7405eaa4a49
+
 Welcome to the Virtual Keyboard repository! This project aims to provide a virtual keyboard solution using hand tracking technology. With this virtual keyboard, you can type without the need for a physical keyboard, simply by making hand gestures in the air.
 
 ## Features
