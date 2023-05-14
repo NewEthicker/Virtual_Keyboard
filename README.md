@@ -27,6 +27,6 @@ Contributions are welcome! If you have any ideas, bug fixes, or improvements, fe
 - [cvzone](https://github.com/cvzone/cvzone) - Computer vision tools
 
 ## Contact
-For any inquiries or feedback, please contact me at your-vaibhavsingh2003ddn@gmail.com.
+For any inquiries or feedback, please contact me at vaibhavsingh2003ddn@gmail.com.
 
 Enjoy typing with the Virtual Keyboard! 🚀✨
